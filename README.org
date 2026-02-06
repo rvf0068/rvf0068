@@ -1,2 +1,28 @@
 I'm a mathematician interested in topological combinatorics. More specifically, the clique graph operator.
 
+** Research & Teaching
+
+I work at LIMA, UAEH, where I teach courses on discrete mathematics, linear programming, algorithms, and topology.
+
+My research focuses on:
+- The clique graph operator and iterated clique graphs
+- Homotopy types of graphs and their clique graphs
+- Graph theory and combinatorics
+- Topological combinatorics applications
+
+** Software Projects
+
+I develop and maintain several open-source projects:
+
+- [[https://github.com/rvf0068/pycliques][pycliques]] :: Python library extending NetworkX to study the clique graph operator
+- [[https://github.com/rvf0068/pyreps][pyreps]] :: Python package for representation theory on homologies of simplicial complexes
+- [[https://github.com/rvf0068/graphiso.sty][graphiso.sty]] :: LaTeX package for graph isomorphisms in Beamer presentations
+- [[https://github.com/rvf0068/gap-cages][gap-cages]] :: GAP package for working with cages (small regular graphs of given girth)
+- [[https://github.com/rvf0068/CageConstructor][CageConstructor]] :: Construct cage graphs using SageMath
+
+** Tools & Technologies
+
+- Programming: Python, GAP, Shell scripting
+- Documentation: LaTeX, Emacs, org-mode
+- Mathematical software: SageMath, NetworkX, SymPy
+
